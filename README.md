@@ -1,6 +1,6 @@
 # CS 370: Current and Emerging Trends in Computer Science - Course Journal
 
-## Project Reflection: Pirate Intelligent Agent for Treasure Hunt Game
+## Course Reflection: Intelligent Agents and AI Ethics
 In Project Two, I developed a deep Q-learning agent to navigate a pirate through a maze to find treasure, avoiding obstacles and optimizing paths. 
 The starter code provided included two Python classes: `TreasureMaze.py` for the environment (maze grid, states, actions, rewards) and `GameExperience.py` for experience replay (storing and sampling episodes). 
 The Jupyter notebook had helper functions like `build_model` (neural network), `completion_check`, `play_game`, and a skeleton for the `qtrain` function. 
